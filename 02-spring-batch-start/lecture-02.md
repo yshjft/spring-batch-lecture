@@ -22,5 +22,5 @@
 
 
 ## 예제 코드
-[]()
+[예제 코드](https://github.com/yshjft/spring-batch-practice/tree/Part2)
 
